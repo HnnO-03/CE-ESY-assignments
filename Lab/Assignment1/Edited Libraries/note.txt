@@ -1,0 +1,5 @@
+the chip used in the schematic is STM32F103C8T6, this chip has been derived from the STM32F103C8Tx in order to match the assignment condetion. 
+the change that happend is the following : 
+    1-the shape of the chip was changed to match the assignment.
+    2-the pins layout was also changed to match the assignment.
+    
